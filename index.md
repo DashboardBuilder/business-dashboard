@@ -1,7 +1,7 @@
 
-PostgreSQL Dashboard is simple monitoring tool that provides a live activity report of a PostgreSQL instance.
+#Business Dashboard Overview
 
-![](https://raw.githubusercontent.com/daamien/pgDashboard/master/public/pgdashboard.screenshot2.png)
+![](https://raw.githubusercontent.com/DashboardBuilder/business-dashboard/gh-pages/repository-open-graph-template.png)
 
 It is designed to be displayed on a large screen in a monitoring room or an open space office.
 The current dashboard is currently composed of 5 widgets :
