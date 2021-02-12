@@ -8,12 +8,22 @@ A business dashboard is a visualization of data which helps business users to tr
 
 A business dashboard builder is a powerful drag-and-drop tool which doesn’t require any programming skill to create a coplex business dashboard. The business dashboad builder t tracks and simplifies complex data query and gives quick insight of business performance to the business users.
 
-# Why do companies use business dashboards?
+## Why do companies use business dashboards?
 
 The main reason for using a business dashboard is to provide a comprehensive view of business performance. A business dashboard summarizes different sections of business with easy-to-understand in a graphical layout.
 
-# Which Different Types of Business Dashboards Exist?
-https://raw.githubusercontent.com/DashboardBuilder/business-dashboard/gh-pages/databases-mini.png
+## Connect to a huge range of data source?
+
+The Business Dashboard Builder fetches data from various data sources and build dashsboard for you. It allows you to connect and retrieve data from MySQL, MS SQL, CSV, MS Excel, Google Sheet, PostgreSQL, ODBC, Oracle, Sybase, Cubrid & SQLite and generates dashboard in real-time.
+
+![](https://raw.githubusercontent.com/DashboardBuilder/business-dashboard/gh-pages/databases-mini.png)
+
+
+There are mainly three types of business dashboards available.
+
+* **Operations Business Dashboard:** An operational business dashboard is a reporting tool that is used to monitor business processes that frequently change and to track the current business performance of KPIs.
+* **Strategic Business Dashboard:**  A strategic business dashboard is a reporting tool that is used to monitor the status of key performance indicators (KPIs), and are typically used by business executives such as CEO, CFO, CIO, etc.
+* **Analytics Business Dashboard:**  An analytical business dashboard is a reporting tool that is used to analyze huge volumes of data set to allow users to investigate trends, predict outcomes, and discover insights.
 
 
 
