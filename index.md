@@ -16,8 +16,13 @@ The main reason for using a business dashboard is to provide a comprehensive vie
 
 The Business Dashboard Builder fetches data from various data sources and build dashsboard for you. It allows you to connect and retrieve data from MySQL, MS SQL, CSV, MS Excel, Google Sheet, PostgreSQL, ODBC, Oracle, Sybase, Cubrid & SQLite and generates dashboard in real-time.
 
-![](https://raw.githubusercontent.com/DashboardBuilder/business-dashboard/gh-pages/databases-mini.png)
+## Type of business dashboard software
 
+The Business Dashboard Builder is available on both delivery modules ON-PREMISE download and install directly on your computer OR use ONLINE. Following is an overview of all types of dashboard builder available for you.
+
+* **On-premise:**  business dashboard software is installed directly on computer having Windows, Linux and Ubuntu or any other platforms support Apache, Nginx etc. Dashboards are managed locally and typically published via exporting as a PNG or generating PHP code for publishing your dashboard.
+* **Online Cloud based:**  The online business dashboard software gives you the freedom to access your dashboard from anywhere. It generates universal HTML code, enables you to share your dashboard to any website to boast impressive functionality and feature-depth in a lightweight package.
+* **On mobile:**  The business dashboard Software is responsive and accessible on any mobile device such as a smartphone or tablet. It’s automatically responds to the environment based on media's screen size, platform and orientation.
 
 There are mainly three types of business dashboards available.
 
@@ -26,72 +31,28 @@ There are mainly three types of business dashboards available.
 * **Analytics Business Dashboard:**  An analytical business dashboard is a reporting tool that is used to analyze huge volumes of data set to allow users to investigate trends, predict outcomes, and discover insights.
 
 
+All of these charts are responsive that means the KPI dashboard responds to the media's screen size, platform, and orientation to render the KPI dashboard to fit on a variety of devices such as MS Window, mobile phones, tablets and PC’s screen sizes.
 
 
+## Business dashboard examples
 
-It is designed to be displayed on a large screen in a monitoring room or an open space office.
+Business dashboard let you focus and align your entire business on a single glance to improve your most important business metrics. Following are the top most important business dashboard examples are designed to make your business KPIs unmissable on a screen so that you can see how different section of your business performing and prioritize work to improve performance.
 
-The current dashboard is currently composed of 5 widgets :
+* Business dashboard for sale
+* Business dashboard for marketing
+* Business dashboard for Financial Management
+* Business dashboard for startup
+* Business dashboard for supply chain
+* Business dashboard for warehouse
+* Business dashboard for Accounts receivables
+* Business dashboard for HR
+* Business dashboard for Performance Analysis
+* Business dashboard for operations
 
-* **General Info** : Version, number of host databases, etc. 
-* **Hit Ratio** : The % of data found in cache
-* **Buffers** : The number of new buffers allocated
-* **Queries** : The number of active queries currently running of the instance
-* **Twitter** : A glimpse of the #PostgreSQL feed
+## FREE business dashboard
 
-Adding a new job should be fairly easy. this tool is design so that you can write a custom widget to display stats you find relevant or build a dynamic graph on some "business logic" valuation.
-
-The layout is also entirely flexible. You can easily drag'n'drop any widget to put it wherever you want on the screen. And HTML code of the dashboard can be modified for specific needs, such as specific screen dimensions.
-
-## Quick Start
-
-If you already have installed a Ruby environnement, simply type:
-
-```
-  git clone https://github.com/daamien/PostgreSQL-Dashboard.git
-  cd PostgreSQL-Dashboard
-  bundle
-  mv config_postgresql.rb.example config_postgresql.rb
-  vi config_postgresql.rb
-  dashing start
-```
-
-Now go to [http://localhost:3030]() and have fun!
-
-For more instructions, please read [INSTALL.md](https://github.com/daamien/pgDashboard/blob/master/INSTALL.md)
-
-## Requirements
-
-PostgreSQL Dashboard is based on Dashing, a very nice dashboard framework.
-Dashing itself is based on Sinatra, a very nice Ruby web framework.
-
-Basically to run this tool, you will need:
- 
-* PostgreSQL 9.0.x or later
-* Ruby 1.9.x or later
-* Sinatara 1.4.x or later
-* Dashing 1.3.x or later
-
-## Security
-
-__You need to be careful about the security of your PostgreSQL server when installing this tool .__
-
-Therefore I **strongly** recommend the following precautions :
-
-* [Read the Great PostgreSQL Documentation](http://www.postgresql.org/docs/current/static/auth-pg-hba-conf.html)
-* Check your ``pg_hba.conf`` file
-* Do not allow users to access PostgreSQL Dashboard from the Internet
-* Do not use a superuser in the config_postgresql.rb file
-
-
-## License 
-
-PostgreSQL Dashboard is distributed under the PostgreSQL License.
-
-Dashing is distributed under the MIT License.
-
-The name "PostgreSQL" is registered trademark and the PostgreSQL Logo is a copyrighted design of the PostgreSQL Global Development Group.
+Business dashboard is free online and on-premises software shares much of the same help resources as it’s commercial license. Business dashboard free version is great for indusial-oriented dashboarding and analytics. The business dashboard software free version also be found on GitHub under this license for Business dashboard Open Source Community. If you need more capabilities such as using commercially then evaluate our commercial license. 
 
 ## Links
 
-  * Check out the [Dashing documentation](http://shopify.github.com/dashing) for more information.
+  * Check out the [Business Dashboard Buidler  documentation](https://dashboardbuilder.net/documentation) for more information.
