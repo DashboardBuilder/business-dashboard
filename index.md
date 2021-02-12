@@ -1,5 +1,6 @@
 
-#Business Dashboard Overview
+# Business Dashboard Overview
+A business dashboard is a visualization of data which helps businessmen to tracke their busines performacne and metrics in a dashboard layout. The Dashboard Buidler helps you to fatche and compiel complex data using a drag-and-drop tool and generates code for sharing your dashboard with the entire business community in few clicks. 
 
 ![](https://raw.githubusercontent.com/DashboardBuilder/business-dashboard/gh-pages/repository-open-graph-template.png)
 
