@@ -1,10 +1,26 @@
 
-# Business Dashboard Overview
-A business dashboard is a visualization of data which helps businessmen to tracke their busines performacne and metrics in a dashboard layout. The Dashboard Buidler helps you to fatche and compiel complex data using a drag-and-drop tool and generates code for sharing your dashboard with the entire business community in few clicks. 
-
+## Business Dashboard Overview
+A business dashboard is a visualization of data which helps business users to tracke their busines performacne and metrics in a dashboard layout. The Dashboard Buidler helps you to fatche and compiel complex data using a drag-and-drop tool and generates code for sharing your dashboard with the entire business community in few clicks. 
 ![](https://raw.githubusercontent.com/DashboardBuilder/business-dashboard/gh-pages/repository-open-graph-template.png)
 
+
+## What is a Business Dashboard tool and how to it works
+
+A business dashboard builder is a powerful drag-and-drop tool which doesn’t require any programming skill to create a coplex business dashboard. The business dashboad builder t tracks and simplifies complex data query and gives quick insight of business performance to the business users.
+
+# Why do companies use business dashboards?
+
+The main reason for using a business dashboard is to provide a comprehensive view of business performance. A business dashboard summarizes different sections of business with easy-to-understand in a graphical layout.
+
+# Which Different Types of Business Dashboards Exist?
+https://raw.githubusercontent.com/DashboardBuilder/business-dashboard/gh-pages/databases-mini.png
+
+
+
+
+
 It is designed to be displayed on a large screen in a monitoring room or an open space office.
+
 The current dashboard is currently composed of 5 widgets :
 
 * **General Info** : Version, number of host databases, etc. 
